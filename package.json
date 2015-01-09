@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sinkingshriek/yatg/issues"
   },
-  "homepage": "https://github.com/sinkingshriek/yatg"
+  "homepage": "https://github.com/sinkingshriek/yatg",
+  "dependencies": {
+    "commander": "^2.6.0",
+    "lodash": "^2.4.1"
+  }
 }
