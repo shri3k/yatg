@@ -24,6 +24,7 @@
     "mkdirs": "0.0.2"
   },
   "devDependencies": {
-    "funxtion": "^0.1.0"
+    "funxtion": "^0.1.0",
+    "jshint": "^2.5.11"
   }
 }
